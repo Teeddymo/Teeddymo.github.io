@@ -1,3 +1,5 @@
+Tên đề tài: Website về cửa hàng bán đồng hồ WatchTime
+
 *Lưu ý : phải tải WAMP , XAMP, ... để có thể chạy CSDL MYPHPADMIN
 
 - Về phần CSDL:
@@ -15,9 +17,9 @@ chọn file có tên là "qlb.sql" và kéo xuống ấn "GO" là bạn có th�
 
 - Về phần WEb: 
 
-+ Việc đầu tiên hãy đưa folder có tên "Website WatchTime" vào folder "www" của folder"wamp64" để có thể chạy chương trình
++ Việc đầu tiên hãy đưa folder có tên "Website WatchTime" vào folder "www" của folder"wamp64" (chỉ có WAMP mới có folder "www") để có thể chạy chương trình
 
-+ bạn lại vào "Chrome" và nhập "localhost" và kiếm trang web, nếu không được thì hãy gõ "Localhost/WebsiteWatchTime" để truy cập vào trang web
++ bạn lại vào "Chrome" (vì "Chrome" có thể sửa lỗi và chạy vô cùng dễ dàng, có thể chạy những trình duyệt khác) và nhập "localhost" và kiếm trang web, nếu không được thì hãy gõ "Localhost/WebsiteWatchTime" để truy cập vào trang web
 
 + Sau khi truy cập vào trang web, nó sẽ hiện ra 2 thư mục : 1. Admin 2.TrangChủ.
 
